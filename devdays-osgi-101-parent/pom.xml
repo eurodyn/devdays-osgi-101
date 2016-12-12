@@ -6,7 +6,7 @@
 
     <groupId>com.github.eurodyn</groupId>
     <artifactId>devdays-osgi-101</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>master-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
