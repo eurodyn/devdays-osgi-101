@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+feature:repo-add mvn:com.eurodyn.devdays/osgi-101-features/1.0.0-SNAPSHOT/xml/features
+-->
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.4.0"	name="devdays-101">
+	<!--<repository>mvn:com.eurodyn.qlack2.util/qlack2-util-repack-karaf-features/${qlack2.util.version}/xml/features</repository>-->
+
+	<feature name="devdays-101-deps" version="${project.version}">
+		<feature>pax-cdi</feature>
+		<bundle>wrap:mvn:javax.inject/javax.inject/${javax.inject.version}</bundle>
+	</feature>
+
+</features>
