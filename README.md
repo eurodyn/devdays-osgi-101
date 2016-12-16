@@ -1,7 +1,6 @@
 #DevDays
 ##OSGi + Apache Karaf  
 ###101: An introduction
----
 
 `devdays-osgi-101-parent`  
 The parent Maven project building all examples.
