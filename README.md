@@ -1,6 +1,6 @@
-**DevDays**  
-OSGi + Apache Karaf  
-101: An introduction
+#DevDays
+##OSGi + Apache Karaf  
+###101: An introduction
 ---
 
 `devdays-osgi-101-parent`  
